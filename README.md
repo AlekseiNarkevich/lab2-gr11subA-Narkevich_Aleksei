@@ -66,3 +66,4 @@ lab2/
 
 ---
 *Лабораторная работа выполнена в рамках курса по операционным системам.*
+<!-- This is a placeholder comment for the main branch -->
